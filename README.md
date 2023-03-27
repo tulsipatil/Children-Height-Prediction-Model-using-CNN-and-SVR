@@ -16,7 +16,7 @@ The second model is a support vector regression (SVR) model that takes depthmap 
 To use the models, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the required libraries by running pip install -r requirements.txt.
+2. Install the required libraries.
 3. Load your own dataset or use the provided dataset by placing your depthmap images in the depthmap directory and updating the height_and_pose.xlsx file with the corresponding image IDs, pose information, and height labels.
 4. Run the models by executing the cnn_height_prediction.py or svr_height_prediction.py files, depending on which model you want to use.
 5. View the predictions and mean absolute error (MAE) in the console output.
