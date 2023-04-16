@@ -3,7 +3,7 @@
 This repository contains two models that use different approaches to predict the height of children based on depthmap images and pose information. The models are implemented using Python and TensorFlow/Keras and Scikit-learn libraries.
 
 ## Dataset
-The dataset used in this project consists of depthmap images and pose information for children of different ages. The images were captured using the Microsoft Kinect camera, which captures both depth and color information. The dataset also includes the height of each child in centimeters.
+The dataset used in this project consists of depthmap images and pose information for children of different ages. The dataset also includes the height of each child in centimeters.
 
 ## Models
 ### Convolutional Neural Network (CNN)
